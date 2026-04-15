@@ -1,0 +1,42 @@
+.
+|-- ATTRIBUTIONS.md
+|-- EJEMPLOS_INTEGRACION.md
+|-- ESTRUCTURA_PROYECTO.txt
+|-- GOOGLE_SHEETS_CONFIG.md
+|-- INTEGRACION.md
+|-- __figma__entrypoint__.ts
+|-- default_shadcn_theme.css
+|-- guidelines
+|   `-- Guidelines.md
+|-- maki-book-export.tar.gz
+|-- package.json
+|-- plans
+|-- pnpm-lock.yaml
+|-- pnpm-workspace.yaml
+|-- postcss.config.mjs
+|-- src
+|   |-- app
+|   |   |-- App.tsx
+|   |   |-- components
+|   |   |   |-- LocationModal.tsx
+|   |   |   |-- MapView.tsx
+|   |   |   |-- StatsCard.tsx
+|   |   |   |-- figma
+|   |   |   `-- ui
+|   |   |-- data
+|   |   |   `-- streetData.ts
+|   |   `-- utils
+|   |       `-- googleSheets.ts
+|   |-- imports
+|   |   `-- pasted_text
+|   |       |-- figma-console-log-1.txt
+|   |       `-- figma-console-log.txt
+|   `-- styles
+|       |-- fonts.css
+|       |-- index.css
+|       |-- leaflet-custom.css
+|       |-- tailwind.css
+|       `-- theme.css
+`-- vite.config.ts
+
+12 directories, 27 files
